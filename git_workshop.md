@@ -8,6 +8,6 @@ Anyone who would like to follow along during the interactive workshop should mak
 - a text editor (e.g. nano, vim, Atom, Sublime, RStudio). You probably already have one that you're familiar with, feel free to use whatever you like. 
 - a GitHub account. If you already have one, make sure you know the email associated with your account & password. https://github.com/
 - the Git Credential Manager. Follow these instructions https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
-- Download the [zip archive](un-report-project.zip) and unzip it to somewhere that's easy to remember, like your desktop.
+- Download the [zip archive](../un-report-project.zip) and unzip it to somewhere that's easy to remember, like your desktop.
 
 Assumes a little bit of experience with unix shell and command line interface.
