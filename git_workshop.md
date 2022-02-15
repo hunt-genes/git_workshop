@@ -12,6 +12,6 @@ Anyone who would like to follow along during the interactive workshop should mak
   [GitHub](https://github.com/)
 - the Git Credential Manager. Follow these instructions.
   [Caching credentials](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
-- Download the [zip archive](/KG_Jebsen/un-report-project.zip) and unzip it to somewhere that's easy to remember, like your desktop.
+- Download the [zip archive](/https://github.com/bnwolford/KGJebsen/blob/60c597e7e71e5944e5db4bdc0114d18f831b69e4/un-report-project.zip) and unzip it to somewhere that's easy to remember, like your desktop.
 
 Assumes a little bit of experience with unix shell and command line interface.
